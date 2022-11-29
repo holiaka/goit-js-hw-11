@@ -1,7 +1,7 @@
 // Fetch func.
 export async function fetchCountries(name) {
   const response = await fetch(
-    `https://restcountries.com/v3.1/name/${name}?fields=name,capital,population,flags,languages,area,latlng,capitalInfo`
+    `https://pixabay.com/api/?key=30951903-ffa881e7e59a7b1cacd7ea887&q=yellow+flowers&image_type=photo`
   );
   if (!response.ok) {
     throw new Error(response.status);
