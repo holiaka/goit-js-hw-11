@@ -1,15 +1,16 @@
-4952
+4953
 49/home/dima/Documents/GitHub/goit-js-hw-11/.sassrc1668285690117872000 0
 59/home/dima/Documents/GitHub/goit-js-hw-11/package-lock.json1669739179641708863 0
 46/home/dima/Documents/GitHub/goit-js-hw-11/.env1669739048092975280 0
+65/home/dima/Documents/GitHub/goit-js-hw-11/src/js/fetchFunction.js1670057179033048303 0
 66/home/dima/Documents/GitHub/goit-js-hw-11/src/scss/add-styles.scss1669984573265530953 0
-65/home/dima/Documents/GitHub/goit-js-hw-11/src/scss/add-styles.css1669984360065212919 0
+65/home/dima/Documents/GitHub/goit-js-hw-11/src/scss/add-styles.css1670052085237658451 0
 59/home/dima/Documents/GitHub/goit-js-hw-11/.github/workflows1668285690117872000 1
 49/home/dima/Documents/GitHub/goit-js-hw-11/.github1668285690117872000 1
-65/home/dima/Documents/GitHub/goit-js-hw-11/dist/index.dc9fd617.css1669985772172835022 0
-68/home/dima/Documents/GitHub/goit-js-hw-11/dist/index.975ef6c8.js.map1669982366378948411 0
-69/home/dima/Documents/GitHub/goit-js-hw-11/dist/index.605cdbfa.css.map1669984360177213274 0
-46/home/dima/Documents/GitHub/goit-js-hw-11/dist1669985772176834932 1
+65/home/dima/Documents/GitHub/goit-js-hw-11/dist/index.dc9fd617.css1670060802413574731 0
+68/home/dima/Documents/GitHub/goit-js-hw-11/dist/index.975ef6c8.js.map1670063663831100226 0
+69/home/dima/Documents/GitHub/goit-js-hw-11/dist/index.605cdbfa.css.map1670057071447816401 0
+46/home/dima/Documents/GitHub/goit-js-hw-11/dist1670063663839099781 1
 59/home/dima/Documents/GitHub/goit-js-hw-11/assets/status.png1668285690125872000 0
 74/home/dima/Documents/GitHub/goit-js-hw-11/assets/actions-config-step-1.png1668285690121872000 0
 66/home/dima/Documents/GitHub/goit-js-hw-11/assets/repo-settings.png1668285690125872000 0
@@ -31,6 +32,7 @@
 105/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/posthtml/node_modules/posthtml-parser/package.json1669720063278534691 0
 115/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/posthtml/node_modules/posthtml-parser/dist/chunk.2UQLUWPH.js1669720063178535438 0
 106/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/posthtml/node_modules/posthtml-parser/dist/index.js1669720063214535169 0
+56/home/dima/Documents/GitHub/goit-js-hw-11/src/qwerty.txt1670060267545714497 0
 102/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/posthtml/node_modules/posthtml-parser/readme.md1669720063306534481 0
 76/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/posthtml/node_modules1669720060994551718 1
 83/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/posthtml/types/posthtml.d.ts1669720063314534421 0
@@ -52,7 +54,6 @@
 82/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/normalize-path/package.json1669720063062536303 0
 78/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/normalize-path/index.js1669720063094536064 0
 79/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/normalize-path/README.md1669720063186535377 0
-66/home/dima/Documents/GitHub/goit-js-hw-11/src/js/fetchFunctions.js1669759876160046204 0
 99/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/node-gyp-build-optional-packages/optional.js1669720063218535138 0
 97/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/node-gyp-build-optional-packages/README.md1669720063314534421 0
 101/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/node-gyp-build-optional-packages/build-test.js1669720063146535677 0
@@ -159,7 +160,7 @@
 72/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/yaml/browser/dist1669720063990529373 1
 76/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/yaml/browser/index.js1669720063542532719 0
 73/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/yaml/browser/types1669720063946529703 1
-54/home/dima/Documents/GitHub/goit-js-hw-11/src/index.js1669982366066953492 0
+54/home/dima/Documents/GitHub/goit-js-hw-11/src/index.js1670063663667109339 0
 72/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/yaml/package.json1669720063994529344 0
 87/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/yaml/dist/resolveSeq-d03cb037.js1669720063890530120 0
 77/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/yaml/dist/parse-cst.js1669720063778530956 0
@@ -1073,7 +1074,7 @@
 68/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/lmdb/write.js1669720064354526652 0
 71/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/lmdb/binding.gyp1669720064282527190 0
 80/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/follow-redirects/https.js1669722118510167042 0
-69/home/dima/Documents/GitHub/goit-js-hw-11/dist/index.dc9fd617.css.map1669985772172835022 0
+69/home/dima/Documents/GitHub/goit-js-hw-11/dist/index.dc9fd617.css.map1670060802413574731 0
 80/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/follow-redirects/index.js1669722118542166897 0
 90/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/css-tree/lib/syntax/config/lexer.js1669720064206527758 0
 79/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/follow-redirects/LICENSE1669722118506167060 0
@@ -1411,7 +1412,7 @@
 91/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/features/dnssec.js1669731063280568219 0
 103/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/features/css-default-pseudo.js1669731063244568866 0
 90/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/features/webgl.js1669731063432565486 0
-64/home/dima/Documents/GitHub/goit-js-hw-11/dist/index.975ef6c8.js1669982366370948541 0
+64/home/dima/Documents/GitHub/goit-js-hw-11/dist/index.975ef6c8.js1670063663831100226 0
 106/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/features/native-filesystem-api.js1669731063368566636 0
 115/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/features/keyboardevent-getmodifierstate.js1669731063340567140 0
 64/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/yaml/dist1669720063970529523 1
@@ -2056,7 +2057,7 @@
 91/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/features/mathml.js1669731063352566924 0
 84/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/@parcel/transformer-babel/lib1669720063630532061 1
 73/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/js-tokens/index.js1669720063150535646 0
-60/home/dima/Documents/GitHub/goit-js-hw-11/src/css/styles.css1669985772028838281 0
+60/home/dima/Documents/GitHub/goit-js-hw-11/src/css/styles.css1670060802277560484 0
 72/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/js-tokens/LICENSE1669720063186535377 0
 93/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/@nodelib/fs.walk/out/providers/sync.js1669720063590532360 0
 77/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/picomatch/package.json1669720063434533525 0
@@ -2395,7 +2396,7 @@
 71/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/mdn-data/LICENSE1669720063062536303 0
 108/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/features/date-tolocaledatestring.js1669731063276568291 0
 100/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/@swc/helpers/src/_class_private_method_get.js1669720064094528596 0
-69/home/dima/Documents/GitHub/goit-js-hw-11/src/scss/add-styles.css.map1669984360065212919 0
+69/home/dima/Documents/GitHub/goit-js-hw-11/src/scss/add-styles.css.map1670052085237658451 0
 87/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/@mischnic/json-sourcemap/LICENSE1669720063090536095 0
 107/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/react-refresh/cjs/react-refresh-babel.development.js1669720063218535138 0
 99/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/@swc/helpers/src/_class_private_field_get.js1669720064078528715 0
@@ -3022,7 +3023,7 @@
 75/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/resolve-from/license1669720063142535706 0
 80/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/resolve-from/package.json1669720063046536423 0
 89/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/@parcel/utils/test/input/sourcemap1669720064398526323 1
-57/home/dima/Documents/GitHub/goit-js-hw-11/dist/index.html1669985165016072980 0
+57/home/dima/Documents/GitHub/goit-js-hw-11/dist/index.html1670057071511811986 0
 100/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/features/mutation-events.js1669731063364566709 0
 95/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/@parcel/core/lib/public/PluginOptions.js1669720064298527071 0
 139/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser-exclude/main.js1669720064226527609 0
@@ -3730,7 +3731,7 @@
 106/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/@parcel/transformer-react-refresh-wrap/package.json1669720063526532838 0
 94/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/@parcel/utils/test/prettifyTime.test.js1669720064118528417 0
 120/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/@parcel/transformer-react-refresh-wrap/src/helpers/.eslintrc.json1669720063510532958 0
-56/home/dima/Documents/GitHub/goit-js-hw-11/src/index.html1669985164760074044 0
+56/home/dima/Documents/GitHub/goit-js-hw-11/src/index.html1670052183186658572 0
 92/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/features/dataset.js1669731063276568291 0
 110/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/@parcel/css-linux-x64-gnu/parcel-css.linux-x64-gnu.node1669720064234527549 0
 79/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/@parcel/optimizer-terser1669720063242534959 1
@@ -3810,7 +3811,7 @@
 90/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/svgo/lib/svgo/css-select-adapter.js1669720063842530478 0
 78/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/dotenv-expand/README.md1669720063226535079 0
 91/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/@parcel/transformer-svg/package.json1669720063478533197 0
-65/home/dima/Documents/GitHub/goit-js-hw-11/dist/index.605cdbfa.css1669984360177213274 0
+65/home/dima/Documents/GitHub/goit-js-hw-11/dist/index.605cdbfa.css1670057071447816401 0
 77/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/xxhash-wasm/LICENSE.md1669720063494533077 0
 85/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/@parcel/config-default/LICENSE1669720063174535467 0
 90/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/regions/alt-as.js1669731063184569945 0
@@ -4648,7 +4649,7 @@
 141/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/source-not-symlinked/package.json1669720064426526114 0
 103/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/@parcel/node-resolver-core/test/fixture/packages1669720064330526831 1
 123/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/@parcel/node-resolver-core/test/fixture/packages/source/package.json1669720064430526083 0
-45/home/dima/Documents/GitHub/goit-js-hw-11/src1669976046781316640 1
+45/home/dima/Documents/GitHub/goit-js-hw-11/src1670059312820881456 1
 72/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/@babel/code-frame1669720063214535169 1
 118/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/@parcel/node-resolver-core/test/fixture/packages/source/dist.js1669720063946529703 0
 130/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/@parcel/source-map/parcel_sourcemap_wasm/dist-node/parcel_sourcemap_wasm.js1669720063570532510 0
@@ -4801,7 +4802,7 @@
 88/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/axios/lib/core/dispatchRequest.js1669722118982164896 0
 86/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/regions/GU.js1669731063320567500 0
 86/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/regions/DZ.js1669731063284568147 0
-48/home/dima/Documents/GitHub/goit-js-hw-11/src/js1669722046486467493 1
+48/home/dima/Documents/GitHub/goit-js-hw-11/src/js1670055696886712082 1
 116/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/@parcel/transformer-react-refresh-wrap/src/helpers/helpers.js1669720063298534541 0
 86/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/regions/FM.js1669731063304567788 0
 86/home/dima/Documents/GitHub/goit-js-hw-11/node_modules/caniuse-lite/data/regions/GL.js1669731063316567572 0

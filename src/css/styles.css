@@ -17,6 +17,15 @@ header {
   justify-content: center;
   background-image: linear-gradient(to right bottom, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
   padding: 20px;
+  margin-left: -5px;
+  margin-right: -5px;
+  margin-top: -10px;
+  position: fixed;
+  width: 100%;
+}
+
+main {
+  padding-top: 70px;
 }
 
 img {
