@@ -82,7 +82,6 @@ function analisysPhotoColection(findPhotos, page) {
     );
   } else {
     createHtmlPhotosColection(hits);
-    console.log(page)
     if (page === 1 && totalHits <= 40 ) {
       Notify.success(`Hooray! We found ${totalHits} images.`);      
       observer.unobserve(ref.targetForScrollRef);
