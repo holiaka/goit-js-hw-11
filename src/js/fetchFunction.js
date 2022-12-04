@@ -17,7 +17,7 @@ export async function fetchPhoto(serchRequest, photoColection) {
         page: photoColection,
       },
     });
-    return response;    
+    return response;
   } catch (error) {
     console.error(error);
   }

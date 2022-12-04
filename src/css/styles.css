@@ -55,7 +55,7 @@ input {
   font-size: 20px;  
 }
 
-button {
+.search-form button {
   position: absolute;
   top: 0;
   right: 0px;
@@ -67,7 +67,7 @@ button {
   cursor: pointer;
 }
 
-button:before {
+.search-form button:before {
   content: "\f002";
   font-family: FontAwesome;
   font-size: 20px;
